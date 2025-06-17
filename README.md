@@ -1,2 +1,5 @@
 # SPC-PAW
 Documents related to the annual SPC pre-assessment workshop - PAW
+This repository was started in 2025 to provide access to documents and presentations related to the annual pre-assesment workshops (PAW) run by SPC (the Pacific Community). Documents from previous PAWs can be requested from SPC, and the meeting summary papers can be found as information papers submitted to each WCPFC Scientific Committe meeting: https://meetings.wcpfc.int/meetings/type/11 
+The purpose of the annual PAW (usually held in March/April) is to help guide stock assessments and related modelling work and analyses for the Western and Central Pacific Fisheries Commission (WCPFC).
+The Oceanic Fisheries Programme (OFP) of the Pacific Community (SPC) is the Science Services Provider for the WCPFC has sought input from regional (WCPFC CCMs) fisheries scientists, consultants, representatives from regional fisheries organisations and other interested stakeholders, through the SPC pre-assessment workshop (PAW) process. 
